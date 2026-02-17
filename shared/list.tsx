@@ -41,6 +41,8 @@ export const AIDoctorAgents = [
       "historical places",
       "civilization",
       "monuments",
+      "archaeology",
+      
     ]
     },
     {
